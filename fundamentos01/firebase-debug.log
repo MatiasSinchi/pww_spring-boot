@@ -1,0 +1,30 @@
+[debug] [2026-06-18T16:02:37.541Z] ----------------------------------------------------------------------
+[debug] [2026-06-18T16:02:37.545Z] Command:       /Users/matiassinchi/Library/pnpm/store/v11/links/@/node/22.22.2/bf1d00502dbf3f1b0aebd600a0bf07a5a0777d6b8c6528056f184d066095b373/node_modules/node/bin/node /Users/matiassinchi/Library/pnpm/global/v11/92d7-19e6c939202/node_modules/firebase-tools/lib/bin/firebase.js login
+[debug] [2026-06-18T16:02:37.546Z] CLI Version:   15.18.0
+[debug] [2026-06-18T16:02:37.546Z] Platform:      darwin
+[debug] [2026-06-18T16:02:37.546Z] Node Version:  v22.22.2
+[debug] [2026-06-18T16:02:37.546Z] Time:          Thu Jun 18 2026 11:02:37 GMT-0500 (Ecuador Time)
+[debug] [2026-06-18T16:02:37.546Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as matiassinchi88@gmail.com
+[debug] [2026-06-18T16:02:47.585Z] Error: Timed out.
+    at Timeout._onTimeout (/Users/matiassinchi/Library/pnpm/store/v11/links/@/firebase-tools/15.18.0/3d2b8f7dddbe71238bb1c4377d00d6d9c04478c77b72b8d6491b9c506a22dc30/node_modules/firebase-tools/lib/utils.js:309:49)
+    at listOnTimeout (node:internal/timers:585:17)
+    at process.processTimers (node:internal/timers:521:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2026-06-18T16:15:51.174Z] ----------------------------------------------------------------------
+[debug] [2026-06-18T16:15:51.179Z] Command:       /Users/matiassinchi/Library/pnpm/store/v11/links/@/node/22.22.2/bf1d00502dbf3f1b0aebd600a0bf07a5a0777d6b8c6528056f184d066095b373/node_modules/node/bin/node /Users/matiassinchi/Library/pnpm/global/v11/92d7-19e6c939202/node_modules/firebase-tools/lib/bin/firebase.js login
+[debug] [2026-06-18T16:15:51.179Z] CLI Version:   15.18.0
+[debug] [2026-06-18T16:15:51.179Z] Platform:      darwin
+[debug] [2026-06-18T16:15:51.180Z] Node Version:  v22.22.2
+[debug] [2026-06-18T16:15:51.180Z] Time:          Thu Jun 18 2026 11:15:51 GMT-0500 (Ecuador Time)
+[debug] [2026-06-18T16:15:51.180Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as matiassinchi88@gmail.com
+[debug] [2026-06-18T16:15:56.526Z] Error: Timed out.
+    at Timeout._onTimeout (/Users/matiassinchi/Library/pnpm/store/v11/links/@/firebase-tools/15.18.0/3d2b8f7dddbe71238bb1c4377d00d6d9c04478c77b72b8d6491b9c506a22dc30/node_modules/firebase-tools/lib/utils.js:309:49)
+    at listOnTimeout (node:internal/timers:585:17)
+    at process.processTimers (node:internal/timers:521:7)
+[error] 
+[error] Error: An unexpected error has occurred.
